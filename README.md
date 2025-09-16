@@ -1,0 +1,1 @@
+Suppose you are working with the Head of Product to get more existing Stripe users to start using the Subscriptions product. Please develop a quantitative approach which identifies a list of users for a sales or marketing campaign. 
